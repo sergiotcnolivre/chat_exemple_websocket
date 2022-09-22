@@ -17,8 +17,8 @@ Never use this code in production, just for learning.
 Install Chat  with npm
 
 ```bash
-  npm install chat_exemplo_websocket
-  cd chat_exemplo_websocket
+  npm install chat_exemple_websocket
+  cd chat_exemple_websocket
   node server.js
 ```
     
@@ -36,13 +36,13 @@ Install Chat  with npm
 Clone project
 
 ```bash
-  git clone https://github.com/sergiotcnolivre/chat_exemplo_websocket.git
+  git clone https://github.com/sergiotcnolivre/chat_exemple_websocket.git
 ```
 
 Enter in folder of project
 
 ```bash
-  cd chat_exemplo_websocket
+  cd chat_exemple_websocket
 ```
 
 Install as dependencies
